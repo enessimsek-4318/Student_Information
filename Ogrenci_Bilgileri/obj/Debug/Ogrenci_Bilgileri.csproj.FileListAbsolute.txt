@@ -1,0 +1,7 @@
+C:\Users\enes4\Desktop\KURS\Çalışma\Ogrenci_Bilgileri\Ogrenci_Bilgileri\bin\Debug\Ogrenci_Bilgileri.exe.config
+C:\Users\enes4\Desktop\KURS\Çalışma\Ogrenci_Bilgileri\Ogrenci_Bilgileri\bin\Debug\Ogrenci_Bilgileri.exe
+C:\Users\enes4\Desktop\KURS\Çalışma\Ogrenci_Bilgileri\Ogrenci_Bilgileri\bin\Debug\Ogrenci_Bilgileri.pdb
+C:\Users\enes4\Desktop\KURS\Çalışma\Ogrenci_Bilgileri\Ogrenci_Bilgileri\obj\Debug\Ogrenci_Bilgileri.csproj.AssemblyReference.cache
+C:\Users\enes4\Desktop\KURS\Çalışma\Ogrenci_Bilgileri\Ogrenci_Bilgileri\obj\Debug\Ogrenci_Bilgileri.csproj.CoreCompileInputs.cache
+C:\Users\enes4\Desktop\KURS\Çalışma\Ogrenci_Bilgileri\Ogrenci_Bilgileri\obj\Debug\Ogrenci_Bilgileri.exe
+C:\Users\enes4\Desktop\KURS\Çalışma\Ogrenci_Bilgileri\Ogrenci_Bilgileri\obj\Debug\Ogrenci_Bilgileri.pdb
